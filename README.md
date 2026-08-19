@@ -113,4 +113,4 @@ l2trav_patch/
 ## 作者 / Author
 
 - **HopingStar**
-- 个人网站: <https://hopingflavor.com>
+- 个人网站: <https://hopingstar.github.io/main>
