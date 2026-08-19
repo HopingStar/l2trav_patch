@@ -1,0 +1,20 @@
+# Gradle
+.gradle/
+build/
+out/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+eclipse/
+
+# Runtime (Minecraft dev runs)
+run/
+
+# OS
+.DS_Store
+Thumbs.db
