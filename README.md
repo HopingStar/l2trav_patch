@@ -6,7 +6,7 @@
 - **Mod ID**: `l2trav_patch`
 - **平台 / 游戏版本**: NeoForge / Minecraft **1.21.1**
 - **作者**: [HopingStar](https://hopingflavor.com)
-- **版本**: `1.0.2`
+- **版本**: `1.0.0`
 
 ---
 
